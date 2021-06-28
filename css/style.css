@@ -108,7 +108,7 @@ img {
 }
 
 .footer {
-  background-image: url(../image/footerbg.jpg);
+  background-image: url(/image/footerbg.jpg);
   background-size: cover;
   background-position: center;
 }
